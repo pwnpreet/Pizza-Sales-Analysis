@@ -1,6 +1,6 @@
 ## PIZZA SALES ANALYSIS
 ---
-||Project Summary||
+## ||Project Summary||
 In this project, I conducted a comprehensive analysis of pizza sales data using MYSQL Server and Power BI. The project involves several steps, including database creation, data importation, and connection to Power BI for analysis.
 
 # KEY HIGHLIGHTS
